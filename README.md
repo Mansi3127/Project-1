@@ -1,4 +1,4 @@
 # Project-1
 This is my first Git Repository
 <br>
-Author - Mansi Sharma
+Author - Mansi Sharma Mansi
